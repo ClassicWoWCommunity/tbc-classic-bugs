@@ -1,8 +1,8 @@
 ---
-name: SOD Classic Bug report
-about: Create a bug report for Season of Discovery
+name: TBC Classic Bug report
+about: Create a bug report for Anniversary TBC
 title: "[BUG]"
-labels: Pending Approval, SoD Bug
+labels: Pending Approval, TBC Bug
 assignees: ''
 
 ---
